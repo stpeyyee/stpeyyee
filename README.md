@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79332/coding-clipart-md.png" width="500">
+
 
 <!-- **stpeyyee/stpeyyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +18,7 @@ Here are some ideas to get you started: -->
  -->
  
  <img src="https://github-readme-stats.vercel.app/api?username=stpeyyee&show_icons=true&theme=ADD_THEME_HERE" width="500">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stpeyyee&exclude_repo=github-readme-stats&layout=compact,stpeyyee.github.io" width="500">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stpeyyee&exclude_repo=github-readme-stats,stpeyyee.github.io" width="500">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=stpeyyee&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" width="500">
  
 
