@@ -16,4 +16,6 @@ Here are some ideas to get you started: -->
  -->
  
  <img src="https://github-readme-stats.vercel.app/api?username=stpeyyee&show_icons=true&theme=ADD_THEME_HERE" width="400">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stpeyyee)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stpeyyee&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
+
