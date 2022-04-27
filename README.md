@@ -1,4 +1,4 @@
-## 👋 Hello My name is Eye 👁️
+## 👋 Hello my name is Eye 👁️
 
 
 <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79332/coding-clipart-md.png" width="700">
