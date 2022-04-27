@@ -11,8 +11,8 @@ Here are some ideas to get you started: -->
 ### About me
 
 - 🌱 Now : I’m currently working on UX/UI Developer 
-- 🎓 Graduated : I graduated with a bachelor’s degree in Computer science from Kasetsart University
-- 💻 Interned : I interned at PTT Soothsayer team where I had a chance to practise data science skills
+- 🎓 Graduated : Bachelor’s degree in Computer science from Kasetsart University
+- 💻 Interned : PTT Soothsayer team where I had a chance to practise data science skills
 - ⚡ Fun fact :  I love cooking! 😄
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -26,7 +26,7 @@ Here are some ideas to get you started: -->
  - 📍 Currently improving my skills: React JS, Javascript, HTML and CSS
 
  ### What’s on focus next
- - 📍 Learning and imporoving back-end language: Typescript
+ - 📍 Learning and improving back-end language: Typescript
 
 ##
 
