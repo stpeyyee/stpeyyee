@@ -1,4 +1,4 @@
-## 👋 Hello my name is Eye 👁️
+## Hello 👋 My name is Eye 👁️
 
 
 <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79332/coding-clipart-md.png" width="700">
@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 - 🌱 Now : I’m currently working on UX/UI Developer 
 - 🎓 Graduated : Bachelor’s degree in Computer science from Kasetsart University
 - 💻 Interned : PTT Soothsayer team where I had a chance to practise data science skills
-- ⚡ Fun fact :  I love cooking! 😄
+- ⚡ Fun fact :  I like to listen to synth-pop, indie, t-pop, and k-pop music 🎵 | I love cooking! 😄 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -26,7 +26,7 @@ Here are some ideas to get you started: -->
  - 📍 Currently improving my skills: React JS, Javascript, HTML and CSS
 
  ### What’s on focus next
- - 📍 Learning and improving back-end language: Typescript
+ - 📍 Learning and improving back-end developer skills: Typescript
 
 ##
 
@@ -36,21 +36,31 @@ Here are some ideas to get you started: -->
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50"/></td>   
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/></td>
+
   </tr>
 </table>
 
- ### Contact 
- 
- - 📧 sathidporn.c@gmail.com
-
-
 ### Github stats
-<img src="https://github-readme-stats.vercel.app/api?username=stpeyyee&show_icons=true&theme=radical" width="350"/>
-<img src="https://komarev.com/ghpvc/?username=stpeyyee&color=green"/>
+<table style="width:100%">
+ <tr>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=stpeyyee&show_icons=true&theme=radical" width="400"/></td>
+  <td><img src="http://github-readme-streak-stats.herokuapp.com?user=stpeyyee&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="400"/></td>
+ </tr>
+</table>
+
+### Listening
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xw7r3vk4o5zfqtkatr55ik20e&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+<img src="https://komarev.com/ghpvc/?username=stpeyyee&color=green" width="100"/>
+   
+
+
 
 
  
