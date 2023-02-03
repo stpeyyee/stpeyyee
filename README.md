@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 
 ### About me
 
-- 🌱 Now : I’m currently working on UX/UI Developer 
+- 🌱 Now : I’m currently working onFull Stack Developer 
 - 🎓 Graduated : Bachelor’s degree in Computer science from Kasetsart University
 - 💻 Interned : PTT Soothsayer team where I had a chance to practise data science skills
 - ⚡ Fun fact :  I like to listen to synth-pop, indie, t-pop, and k-pop music 🎵 | I love cooking! 😄 
