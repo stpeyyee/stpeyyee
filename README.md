@@ -8,23 +8,22 @@
 
 Here are some ideas to get you started: -->
 
-### About me
-
+<!-- ### About me
 - 🌱 Now : I’m currently working on Full Stack Developer 
 - 🎓 Graduated : Bachelor’s degree in Computer science from Kasetsart University
 - 💻 Interned : PTT Soothsayer team where I had a chance to practise data science skills
 - ⚡ Fun fact :  I like to listen to synth-pop, indie, t-pop, and k-pop music 🎵 | I love cooking! 😄 
+ --> 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
  -->
- 
+ <!-- ### About me
  ### What I'm focusing on
  - 📍 React JS, Javascript, Node.js, Typescript
-
+ -->
 ##
 
 <table style="width:100%">
