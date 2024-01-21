@@ -24,9 +24,21 @@ Here are some ideas to get you started: -->
  ### What I'm focusing on
  - 📍 React JS, Javascript, Node.js, Typescript
  -->
-##
+## My Skills
 
-<table style="width:100%">
+### Front End
+[![My Skills](https://skillicons.dev/icons?i=react,mui,javascript,flutter,css,html&perline=5)](https://skillicons.dev)
+
+### Back End
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,python,express&perline=5)](https://skillicons.dev)
+
+### Cloud
+[![My Skills](https://skillicons.dev/icons?i=azure,googlecloud,firebase&perline=5)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,postman,figma&perline=5)](https://skillicons.dev)
+
+<!--<table style="width:100%">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/></td>
@@ -38,9 +50,9 @@ Here are some ideas to get you started: -->
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/></td>
-
   </tr>
 </table>
+ -->
 
 ### Github stats
 <table style="width:100%">
