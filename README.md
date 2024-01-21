@@ -27,7 +27,7 @@ Here are some ideas to get you started: -->
 ## My Skills
 
 ### Front End
-[![My Skills](https://skillicons.dev/icons?i=react,mui,javascript,flutter,css,html&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,mui,javascript,flutter,css,html&perline=6)](https://skillicons.dev)
 
 ### Back End
 [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,python,express&perline=5)](https://skillicons.dev)
