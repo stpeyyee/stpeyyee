@@ -62,10 +62,10 @@ Here are some ideas to get you started: -->
  </tr>
 </table>
 
-### Listening
+<!--### Listening
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=xw7r3vk4o5zfqtkatr55ik20e">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=xw7r3vk4o5zfqtkatr55ik20e&custom_title=My%20Playlist" alt="Data Card for Spotify">
-</a>
+</a>-->
 
 <img src="https://komarev.com/ghpvc/?username=stpeyyee&color=green" width="100"/>
    
